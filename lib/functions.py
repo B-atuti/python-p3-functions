@@ -20,4 +20,14 @@ def halve(number):
 
 
 
-
+#Testing
+greet_programmer()
+greet("Naureen")
+greet_with_default()
+greet_with_default("Sunny")
+sum = add(1, 2)
+print(sum)
+result = halve(4)
+print(result)
+result = halve("two") 
+print(result)
